@@ -674,4 +674,4 @@ input, textarea {
 
 </body>
 </html>
-<? } ?>
+<?php } ?>
